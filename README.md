@@ -1,11 +1,37 @@
-# GroupProject1
-Group project #1.
+#### Full Stack Developer 
+![alt text](https://portfolium1.cloudimg.io/s/crop/128x128/https://cdn.portfolium.com/ugcs3%2Fedu%2F9tDF4wvqRdewUvBbZ97x_PegasusBrightGold150x150.png "Logo Title Text 1")
+- - -
 
-1. Who is your target audience?
-    A: Computer Users
-2. What is the problem that the product will address?
-    A: Measuring personal typing speed
-3. What is the primary goal of the product?
-    A: Measure a users typing speed in words per minute
-4. Identify and prioritize essential user stories (limit this to 3 or fewer)?
-    A: As a user, I want to be able to test and see how fast I can type a set amount of randomly chosen words of varying lengths.
+### Spades ♠️
+A dynamic **Casino Online** that uses a secure authentication system and saves the user’s information in a responsible and encrypted database.
+
+- - - - 
+
+
+##### Regarding of my participation
+
+*  Libraries and languages used for accomplished this project
+
+    #
+    * __Front End__
+        * HTML
+        * CSS & Bootstrap
+        * CodePen
+        * Javascript
+        * JQuery
+        
+         * Handling events
+         * Responsive Layaout.
+         * CSS & JavaScript Animation
+
+To learn more about Bootstrap, click [here!](https://getbootstrap.com/)
+
+### [Here you can execute my project](https://theresinger.github.io/TypingSpeedTest/index.html)
+
+![](https://gph.is/g/Ev3PyN7)
+
+### [Link to the original repository where you can see my participation based on commits.](https://github.com/TheResinger/TypingSpeedTest)
+
+*If any suggestion, do not hesitate to contact me on my personal email: marcia.gzq@gmail.com
+I would appreciate any comment, I know it may be very beneficial on my professional growth.*
+
