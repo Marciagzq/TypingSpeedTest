@@ -2,9 +2,7 @@
 ![alt text](https://portfolium1.cloudimg.io/s/crop/128x128/https://cdn.portfolium.com/ugcs3%2Fedu%2F9tDF4wvqRdewUvBbZ97x_PegasusBrightGold150x150.png "Logo Title Text 1")
 - - -
 
-### Spades ♠️
-A dynamic **Casino Online** that uses a secure authentication system and saves the user’s information in a responsible and encrypted database.
-
+### Typing Speed Test
 - - - - 
 
 
@@ -28,7 +26,7 @@ To learn more about Bootstrap, click [here!](https://getbootstrap.com/)
 
 ### [Here you can execute my project](https://theresinger.github.io/TypingSpeedTest/index.html)
 
-![](https://gph.is/g/Ev3PyN7)
+![](https://media.giphy.com/media/fqUgmIGIphrjOFIO0u/giphy.gif)
 
 ### [Link to the original repository where you can see my participation based on commits.](https://github.com/TheResinger/TypingSpeedTest)
 
