@@ -7,6 +7,8 @@
 
 
 ##### Regarding of my participation
+###### [Link to the original repository where you can see my participation based on commits.](https://github.com/TheResinger/TypingSpeedTest)
+
 
 *  Libraries and languages used for accomplished this project
 
